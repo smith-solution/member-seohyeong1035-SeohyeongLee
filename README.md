@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" width="25%">
-    <img alt="" width="300" src="https://github.com/user-attachments/assets/13452894-aded-4f2b-96e9-b22974809423" alt=""></img>
+    <img alt="" width="200" src="https://github.com/user-attachments/assets/13452894-aded-4f2b-96e9-b22974809423" alt=""></img>
     </td>
     <td colspan="4" align="center" width="75%">
     <h2 style="border-bottom: none;">
@@ -23,7 +23,7 @@
   </tr>
 
   <tr>
-    <th colspan="6" align="center" width="1200px">
+    <th colspan="6" align="center" width="1200px"> <!--깨진다 싶으면 이거 width="1200px"제거하기 -->
       <h3><a href="/README.md#-plugins">📞 연락처 </a></h3>
     </th>
   </tr>
@@ -149,111 +149,6 @@
     ▶️ Lorem ipsum<br>
     <h3>🔬 연구 </h3>
     ▶️ 학부연구생 - 임베디드 시스템 플랫폼 연구실(Ace Lab)<br>
-    ▶️ Lorem ipsum<br>
-    ▶️ Lorem ipsum<br>
-  </td>
-  </tr>
-
-  <tr>
-    <th colspan="6" align="center" width="360">
-      <h3><a href="/README.md#-plugins">📑 Paper & Patent
-      </a></h3>
-    </th>
-  </tr>
-  <tr>
-  <td colspan="6" align="left" width="360">
-    <h3>📜 Paper </h3>
-    ▶️ Lorem ipsum <a href="">[Link]</a><br>
-    <h3>📚 Patent </h3>
-    ▶️ Lorem ipsum <a href="">[Link]</a><br>
-  </td>
-  </tr>
-
-  <tr>
-    <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">🌐 Website & Blog
-      </a></h3>
-    </th>
-  </tr>
-  <tr>
-  <td colspan="3" align="left">
-    <h3>🖥️ Website </h3>
-    ▶️ Coming Soon!<br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-  </td>
-  <td colspan="3" align="left">
-    <h3>💻 Blog </h3>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/GITHUB BLOG: My CodingLog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a><br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-  </td>
-  </tr>
-
-  <tr>
-    <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">🏆 Awards & Honors
-      </a></h3>
-    </th>
-  </tr>
-  <tr>
-  <td colspan="6" align="left">
-    <h2>🏆 Awards</h2>
-    ▶️ Lorem ipsum<br>
-    ▶️ Lorem ipsum<br>
-    ▶️ Lorem ipsum
-    <h2>🎖️ Honors</h2>
-    ▶️ Lorem ipsum<br>
-    ▶️ Lorem ipsum<br>
-    ▶️ Lorem ipsum
-  </td>
-  </tr>
-
-  <tr>
-    <th colspan="6" align="center">
-      <h3><a href="/README.md#-plugins">🎓 Others(어학성적, 자격증)
-      </a></h3>
-    </th>
-  </tr>
-  <tr>
-  <td colspan="3" align="left">
-    <h3>🌐 English Proficiency</h3>
-    ▶️ TOEIC: XXX<br>
-    ▶️ TOFEL: XXX<br>
-  </td>
-  <td colspan="3" align="left">
-    <h3>📜 Certifications</h3>
-    ▶️ Lorem ipsum<br>
-    ▶️ Lorem ipsum<br>
-  </td>
-  </tr>
-
-  <tr>
-    <th colspan="6" align="center" width="360">
-      <h3><a href="/README.md#-plugins">✅ Activity
-      </a></h3>
-    </th>
-  </tr>
-  <tr>
-  <td colspan="6" align="left" width="360">
-    <h3>💼 직장 </h3>
-    ▶️ Lorem ipsum<br>
-    ▶️ Lorem ipsum<br>
-    ▶️ Lorem ipsum<br>
-    <h3>🔬 연구 </h3>
-    ▶️ 학부연수생 - 임베디드 시스템 플랫폼 연구실(Ace Lab)<br>
     ▶️ Lorem ipsum<br>
     ▶️ Lorem ipsum<br>
   </td>
